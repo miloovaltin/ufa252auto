@@ -1,16 +1,16 @@
 {
-"name": "ufa252auto",
-"theme": "ufa252 auto",
-"version": "7.2.4",
-"description": "ufa252 auto ทางเข้าเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
-"keywords": [
-"ufa252 auto",
-"ufa252 auto เครดิตฟรี",
-"ufa252 auto ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ufa252auto",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ufa252auto",
+  "theme": "ufa252 auto",
+  "version": "7.3.0",
+  "description": "ufa252 auto ทางเข้าเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "ufa252 auto",
+    "ufa252 auto เครดิตฟรี",
+    "ufa252 auto ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ufa252auto",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
